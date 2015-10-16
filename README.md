@@ -1,0 +1,2 @@
+# smartconnectables-core
+
